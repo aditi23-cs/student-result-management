@@ -81,3 +81,7 @@ public class StudentResult {
         sc.close();
     }
 }
+
+
+// To run: javac StudentResult.java then java StudentResult
+// If error, try: javac --release 8 StudentResult.java then java StudentResult
